@@ -19,3 +19,5 @@ Power BI Desktop Version: [Specify version, if necessary] Data Access: [Describe
 <br>
 output :
 
+![image alt](https://github.com/Shreya-pophale-17/first-power-bi-project-/blob/e438a7bcec39a82d297b6a9624d3f6f9780763ae/Screenshot%20(33).png)
+
